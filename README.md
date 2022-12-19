@@ -12,7 +12,7 @@ User can find deployed app at [GitHub](https://github.com/Babylex710/social-netw
 
 ## Walkthrough Video
 
-Walkthrough video VS Code [link](https://drive.google.com/file/d/1phiM3OxKdlDH0f8UlZBJdzFdloQvCLdP/view)
+Walkthrough video VS Code [link](https://drive.google.com/file/d/1jkBHHji4_DxMV1dkybAKkWU2Tvt5ZeaH/view)
 
 Walkthrough video Insomnia [link](https://drive.google.com/file/d/1jfbNanfJB1cWJvYaB2Ytv9zNHrrOtibG/view)
 
